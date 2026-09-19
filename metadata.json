@@ -1,0 +1,6 @@
+{
+  "name": "DocuPera",
+  "description": "AI-powered document studio that turns user ideas, text, photos, and screenshots into professional editable documents and downloadable PDFs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
